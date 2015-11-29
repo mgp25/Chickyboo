@@ -1,5 +1,7 @@
-# Chickyboo
+# ![logo](/images/logo.jpg) Chickyboo
 Solution to Chickyboo crypto riddle
+
+![logo](/images/logo.jpg)
 
 ###1st Clue: Youtube Video https://www.youtube.com/watch?v=kRg18QLi_XY
 
