@@ -1,8 +1,6 @@
 # ![logo](/images/logo.jpg) Chickyboo
 Solution to Chickyboo crypto riddle
 
-![logo](/images/logo.jpg)
-
 ###1st Clue: Youtube Video https://www.youtube.com/watch?v=kRg18QLi_XY
 
 I was like wtf is this video when i saw the video for the first time, but then reading the comments someone told something about a encrypted text at the end of the video. So i checked and it was true!
