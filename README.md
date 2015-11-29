@@ -39,6 +39,7 @@ Download Gmask: http://homepage3.nifty.com/furumizo/gmaskd_e.htm
 I tried many combinations 'til i achieved, the trick was using what we got in the 1st clue!:
 
 There were 3 masks, each one with a password: `ohgod`, `itcontrols` and `usall`. It doesn't matter if its uppercase or lowercase.
+The clue to this combination was `YOUHAVE EVERYTHINGTHAT YOUNEED`. 3 words
 
 ![mask1](/images/gmask1.jpg)
 
