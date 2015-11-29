@@ -67,7 +67,7 @@ But it wasn't decrypting the ciphered message.
 
 ![crypto1](/images/crypto1.jpg)
 
-So i had to try shifting the keys, til' one combinations worked:
+So i had to try shifting the keys, til' one combinations worked (there was a little trick, oh my...)
 
 ![crypto2](/images/crypto2.jpg)
 
